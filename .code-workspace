@@ -1,0 +1,23 @@
+{
+  "folders": [
+    {
+      // Source code
+      "name": "Minimal",
+      "path": "/home/bots/minimal"
+    },
+    {
+      // Docs and release notes
+      "name": "Henta",
+      "path": "/home/bots/HENTA"
+    },
+    {
+      // Docs and release notes
+      "name": "Henta Installer",
+      "path": "/home/bots/henta-installer"
+    }
+  ],
+  "settings": {
+    "javascript.validate.enable": false,
+    "editor.tabSize": 2
+  }
+}
