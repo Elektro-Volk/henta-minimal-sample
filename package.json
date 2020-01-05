@@ -4,6 +4,7 @@
 	"description": "Чистый шаблон для того, чтобы творить",
 	"type": "module",
 	"scripts": {
+		"test": "echo 'no tests'",
 		"service": "node -r esm --service",
 		"start": "node -r esm .",
 		"installbot": "node -r esm install"
