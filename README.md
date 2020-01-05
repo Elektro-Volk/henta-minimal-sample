@@ -12,11 +12,13 @@ cd mybot
 ```
 Если у вас YARN (**Рекомендуется**)
 ```
-yarn run install
+yarn run installbot
 yarn start
 ```
 Если у вас NPM
 ```
-npm run install
+npm run installbot
 npm start
 ```
+## Сервисный режим
+Сервисный режим нужен в тех случаях, когда запуск HENTA невозможен из-за повреждённых плагинов, но нужен доступ к CLI. Для этого бот запускается с флагом '--service'.
