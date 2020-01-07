@@ -13,7 +13,7 @@
 	"license": "ISC",
 	"dependencies": {
 		"esm": "^3.2.25",
-		"henta": "^2.5.0",
+		"henta": "^2.5.1",
 		"henta-installer": "^0.1.2",
 		"vk-io": "^4.0.0-rc.30"
 	}
